@@ -4,3 +4,5 @@ I wrote this app entirely on the front end, so you can run it directly from your
 I copied most of this app's code from my other project and made it work without a backend.
 
 I also tried to add an option to import PDF files instead of just pasting the content you want to use to generate the quiz but it didn't work very well in a browser.
+
+![image](https://github.com/user-attachments/assets/9bbdb135-41e9-433b-980b-2577191f5008)
